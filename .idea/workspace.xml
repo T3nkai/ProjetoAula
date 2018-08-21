@@ -2,16 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06136790-6660-41e4-b606-9b956271f6eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjetosAula.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/ufsc/ine5605/exemplosAbistratos/Circulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/ufsc/ine5605/exemplosAbistratos/Figura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/ufsc/ine5605/exemplosAbistratos/IArmazenar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/ufsc/ine5605/exemplosAbistratos/Retangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/ufsc/ine5605/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Ave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Canarinho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Mamifero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/projetosAula/br/ufsc/ine5605/exemplosAbistratos/Circulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/projetosAula/br/ufsc/ine5605/exemplosAbistratos/Figura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/projetosAula/br/ufsc/ine5605/exemplosAbistratos/IArmazenar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/projetosAula/br/ufsc/ine5605/exemplosAbistratos/Retangulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/projetosAula/br/ufsc/ine5605/main.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="out/" />
+    <manually-removed-from-ignored>
+      <directory path=".idea/" />
+    </manually-removed-from-ignored>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,91 +32,98 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="2" />
+          <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.56" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="6" />
+          <entry key="java" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="6" />
+          <entry key="JAVA" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="68" />
-          <entry key="txt" value="91" />
+          <entry key="txt" value="97" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="68" />
-          <entry key="PLAIN_TEXT" value="91" />
+          <entry key="PLAIN_TEXT" value="97" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.checkout.local" value="1" />
+          <entry key="git.branch.checkout.remote" value="1" />
+          <entry key="git.branch.checkout.revision" value="1" />
+          <entry key="git.branch.compare" value="1" />
+          <entry key="git.branch.merge" value="1" />
+          <entry key="git.branch.rebase" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/main.java">
+        <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="578">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/exemplosAbistratos/IArmazenar.java">
+        <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Ave.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="34">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/exemplosAbistratos/Retangulo.java">
+        <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Mamifero.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="46" column="46" selection-start-line="46" selection-start-column="46" selection-end-line="46" selection-end-column="46" />
-              <folding>
-                <element signature="e#804#805#0" expanded="true" />
-                <element signature="e#857#858#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/exemplosAbistratos/Circulo.java">
+        <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Gato.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/exemplosAbistratos/Figura.java">
+        <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Cachorro.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="e#165#166#0" expanded="true" />
-                <element signature="e#203#204#0" expanded="true" />
-                <element signature="e#248#249#0" expanded="true" />
-                <element signature="e#286#287#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Canarinho.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -128,7 +144,12 @@
       </list>
     </option>
     <option name="ROOT_SYNC" value="SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -139,6 +160,7 @@
         <option value="$PROJECT_DIR$/src/br/ufsc/ine5605/exemplosAbistratos/IArmazenar.java" />
         <option value="$PROJECT_DIR$/src/br/ufsc/ine5605/exemplosAbistratos/Retangulo.java" />
         <option value="$PROJECT_DIR$/src/br/ufsc/ine5605/main.java" />
+        <option value="$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Animal.java" />
       </list>
     </option>
   </component>
@@ -183,25 +205,141 @@
               <item name="ProjetosAula" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ine5605" type="462c0819:PsiDirectoryNode" />
-              <item name="exemplosAbistratos" type="462c0819:PsiDirectoryNode" />
+              <item name="animais" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projetosAula" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjetosAula" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534811472819" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534821452753" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/README.md</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -232,6 +370,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.main" />
+        <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
   </component>
@@ -247,6 +386,7 @@
       <updated>1534810043511</updated>
       <workItem from="1534810047982" duration="1425000" />
       <workItem from="1534816760955" duration="449000" />
+      <workItem from="1534818210826" duration="3129000" />
     </task>
     <task id="LOCAL-00001" summary="Exercicio feito em sala sobre classes abistradas e abistratas">
       <created>1534816852343</created>
@@ -259,7 +399,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2212000" />
+    <option name="totallyTimeSpent" value="5341000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -272,8 +412,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25396827" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2579365" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -288,12 +429,12 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4984127" visible="true" weight="0.3276923" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50158733" side_tool="true" visible="true" weight="0.3276923" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49761903" visible="true" weight="0.3276923" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50079364" side_tool="true" weight="0.3276923" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.3276923" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32923076" />
+      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49920633" weight="0.3276923" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -338,21 +479,14 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
     <MESSAGE value="Exercicio feito em sala sobre classes abistradas e abistratas" />
     <option name="LAST_COMMIT_MESSAGE" value="Exercicio feito em sala sobre classes abistradas e abistratas" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/exemplosAbistratos/Armazena.java" />
-    <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/exemplosAbistratos/IArmazenar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -371,16 +505,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/exemplosAbistratos/Circulo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/back/main.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/exemplosAbistratos/Figura.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="287">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="e#165#166#0" expanded="true" />
@@ -388,6 +518,65 @@
             <element signature="e#248#249#0" expanded="true" />
             <element signature="e#286#287#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/exemplosAbistratos/Circulo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Ave.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Mamifero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Gato.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Cachorro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Canarinho.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
