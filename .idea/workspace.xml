@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06136790-6660-41e4-b606-9b956271f6eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Ave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Cachorro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Canarinho.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Gato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Mamifero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="06136790-6660-41e4-b606-9b956271f6eb" name="Default Changelist" comment="Exercicio de sala sobre criação de uma biblioteca utilizando">
+      <change afterPath="$PROJECT_DIR$/src/br/ufsc/ine5605/ExercicioBiblioteca/Autor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/ufsc/ine5605/ExercicioBiblioteca/Biblioteca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/ufsc/ine5605/ExercicioBiblioteca/Capitulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/ufsc/ine5605/ExercicioBiblioteca/Editora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/ufsc/ine5605/ExercicioBiblioteca/Livro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetosAula/br/ufsc/ine5605/exemplosAbistratos/Circulo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetosAula/br/ufsc/ine5605/exemplosAbistratos/Figura.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetosAula/br/ufsc/ine5605/exemplosAbistratos/IArmazenar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetosAula/br/ufsc/ine5605/exemplosAbistratos/Retangulo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetosAula/br/ufsc/ine5605/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/ufsc/ine5605/ExercicioAnimais/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Ave.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/ufsc/ine5605/ExercicioAnimais/Ave.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Cachorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/ufsc/ine5605/ExercicioAnimais/Cachorro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Canarinho.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/ufsc/ine5605/ExercicioAnimais/Canarinho.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Gato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/ufsc/ine5605/ExercicioAnimais/Gato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Mamifero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/ufsc/ine5605/ExercicioAnimais/Mamifero.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="out/" />
@@ -31,33 +30,36 @@
     <session id="423650409">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.46" value="3" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.56" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="13" />
+          <entry key="java" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="13" />
+          <entry key="JAVA" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="68" />
-          <entry key="txt" value="97" />
+          <entry key="java" value="2453" />
+          <entry key="txt" value="170" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="68" />
-          <entry key="PLAIN_TEXT" value="97" />
+          <entry key="JAVA" value="2453" />
+          <entry key="PLAIN_TEXT" value="170" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -73,57 +75,70 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Animal.java">
+        <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/ExercicioBiblioteca/Biblioteca.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="255">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#296#297#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Ave.java">
+        <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/ExercicioBiblioteca/Livro.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            <state relative-caret-position="238">
+              <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1046#1047#0" expanded="true" />
+                <element signature="e#1082#1083#0" expanded="true" />
+                <element signature="e#1274#1275#0" expanded="true" />
+                <element signature="e#1312#1313#0" expanded="true" />
+                <element signature="e#1341#1342#0" expanded="true" />
+                <element signature="e#1375#1376#0" expanded="true" />
+                <element signature="e#1480#1481#0" expanded="true" />
+                <element signature="e#1510#1511#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Mamifero.java">
+        <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/ExercicioBiblioteca/Capitulo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            <state relative-caret-position="357">
+              <caret line="21" column="27" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="27" />
+              <folding>
+                <element signature="e#260#261#0" expanded="true" />
+                <element signature="e#294#295#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Gato.java">
+        <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/ExercicioBiblioteca/Editora.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="102">
+              <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Cachorro.java">
+        <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/ExercicioBiblioteca/Autor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Canarinho.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -136,6 +151,16 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>numero</find>
+      <find>setcodigo</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>codigo</replace>
+      <replace>setCodigo</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -161,6 +186,16 @@
         <option value="$PROJECT_DIR$/src/br/ufsc/ine5605/exemplosAbistratos/Retangulo.java" />
         <option value="$PROJECT_DIR$/src/br/ufsc/ine5605/main.java" />
         <option value="$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Animal.java" />
+        <option value="$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Ave.java" />
+        <option value="$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Mamifero.java" />
+        <option value="$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Gato.java" />
+        <option value="$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Canarinho.java" />
+        <option value="$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Cachorro.java" />
+        <option value="$PROJECT_DIR$/src/br/ufsc/ine5605/ExercicioBiblioteca/Editora.java" />
+        <option value="$PROJECT_DIR$/src/br/ufsc/ine5605/ExercicioBiblioteca/Capitulo.java" />
+        <option value="$PROJECT_DIR$/src/br/ufsc/ine5605/ExercicioBiblioteca/Biblioteca.java" />
+        <option value="$PROJECT_DIR$/src/br/ufsc/ine5605/ExercicioBiblioteca/Autor.java" />
+        <option value="$PROJECT_DIR$/src/br/ufsc/ine5605/ExercicioBiblioteca/Livro.java" />
       </list>
     </option>
   </component>
@@ -171,8 +206,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-40" />
-    <option name="y" value="-10" />
+    <option name="x" value="64" />
+    <option name="y" value="-26" />
     <option name="width" value="1284" />
     <option name="height" value="728" />
   </component>
@@ -205,7 +240,7 @@
               <item name="ProjetosAula" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ine5605" type="462c0819:PsiDirectoryNode" />
-              <item name="animais" type="462c0819:PsiDirectoryNode" />
+              <item name="ExercicioBiblioteca" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="projetosAula" type="b2602c69:ProjectViewProjectNode" />
@@ -216,130 +251,20 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534821452753" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535234451657" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/out" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
-  </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/README.md</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -386,7 +311,12 @@
       <updated>1534810043511</updated>
       <workItem from="1534810047982" duration="1425000" />
       <workItem from="1534816760955" duration="449000" />
-      <workItem from="1534818210826" duration="3129000" />
+      <workItem from="1534818210826" duration="3400000" />
+      <workItem from="1534891823673" duration="677000" />
+      <workItem from="1535135261702" duration="5623000" />
+      <workItem from="1535144600766" duration="1964000" />
+      <workItem from="1535153882469" duration="5280000" />
+      <workItem from="1535232352483" duration="1842000" />
     </task>
     <task id="LOCAL-00001" summary="Exercicio feito em sala sobre classes abistradas e abistratas">
       <created>1534816852343</created>
@@ -395,11 +325,18 @@
       <option name="project" value="LOCAL" />
       <updated>1534816852343</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Exercicio feito em sala sobre classes abistradas e herança">
+      <created>1534821516224</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1534821516224</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5341000" />
+    <option name="totallyTimeSpent" value="20998000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -411,10 +348,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
-    <editor active="true" />
+    <frame x="418" y="132" width="1284" height="728" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2579365" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19281046" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -429,7 +365,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49761903" visible="true" weight="0.3276923" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49761903" weight="0.3276923" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50079364" side_tool="true" weight="0.3276923" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.3276923" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
@@ -483,7 +419,8 @@
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
     <MESSAGE value="Exercicio feito em sala sobre classes abistradas e abistratas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicio feito em sala sobre classes abistradas e abistratas" />
+    <MESSAGE value="Exercicio feito em sala sobre classes abistradas e herança" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicio feito em sala sobre classes abistradas e herança" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/exemplosAbistratos/Armazena.java" />
@@ -498,10 +435,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="46" column="46" selection-start-line="46" selection-start-column="46" selection-end-line="46" selection-end-column="46" />
-          <folding>
-            <element signature="e#804#805#0" expanded="true" />
-            <element signature="e#857#858#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -512,12 +445,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -532,51 +459,105 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
           <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/ExercicioAnimais/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/ExercicioAnimais/Ave.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/ExercicioAnimais/Mamifero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/ExercicioAnimais/Gato.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/ExercicioAnimais/Cachorro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/ExercicioAnimais/Canarinho.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/ExercicioBiblioteca/Editora.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/ExercicioBiblioteca/Autor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/ExercicioBiblioteca/Capitulo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="27" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Ave.java">
+    <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/ExercicioBiblioteca/Livro.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        <state relative-caret-position="238">
+          <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1046#1047#0" expanded="true" />
+            <element signature="e#1082#1083#0" expanded="true" />
+            <element signature="e#1274#1275#0" expanded="true" />
+            <element signature="e#1312#1313#0" expanded="true" />
+            <element signature="e#1341#1342#0" expanded="true" />
+            <element signature="e#1375#1376#0" expanded="true" />
+            <element signature="e#1480#1481#0" expanded="true" />
+            <element signature="e#1510#1511#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Mamifero.java">
+    <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/ExercicioBiblioteca/Biblioteca.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Gato.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Cachorro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Canarinho.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/ufsc/ine5605/animais/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

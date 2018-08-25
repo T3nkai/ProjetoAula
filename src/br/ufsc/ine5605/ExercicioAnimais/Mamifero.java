@@ -1,4 +1,4 @@
-package br.ufsc.ine5605.animais;
+package br.ufsc.ine5605.ExercicioAnimais;
 /*
  * Universidade Federal de Santa Catarina.
  * CTC - Centro Tecnologico - http://ctc.ufsc.br

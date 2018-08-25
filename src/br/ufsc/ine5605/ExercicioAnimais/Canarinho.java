@@ -1,4 +1,4 @@
-package br.ufsc.ine5605.animais;
+package br.ufsc.ine5605.ExercicioAnimais;
 
 /*
  * Universidade Federal de Santa Catarina.
