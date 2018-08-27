@@ -1,4 +1,4 @@
-package br.ufsc.ine5605.exemplosAbistratos;
+package br.ufsc.ine5605.ExemplosAbstratos;
 
 /*
  * To change this license header, choose License Headers in Project Properties.

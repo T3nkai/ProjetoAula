@@ -1,10 +1,10 @@
 package br.ufsc.ine5605;
 
-import br.ufsc.ine5605.exemplosAbistratos.IArmazenar;
-import br.ufsc.ine5605.exemplosAbistratos.Circulo;
+import br.ufsc.ine5605.ExemplosAbstratos.IArmazenar;
+import br.ufsc.ine5605.ExemplosAbstratos.Circulo;
 
-import br.ufsc.ine5605.exemplosAbistratos.Figura;
-import br.ufsc.ine5605.exemplosAbistratos.Retangulo;
+import br.ufsc.ine5605.ExemplosAbstratos.Figura;
+import br.ufsc.ine5605.ExemplosAbstratos.Retangulo;
 
 import java.util.ArrayList;
 

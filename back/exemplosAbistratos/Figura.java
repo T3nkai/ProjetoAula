@@ -1,4 +1,4 @@
-package br.ufsc.ine5605.exemplosAbistratos;
+package br.ufsc.ine5605.ExemplosAbstratos;
 
 /**
  *
